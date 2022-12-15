@@ -12,7 +12,7 @@ struct ciao{
 fn main() {
     let mut v = vec![0, 1];
     for i in v{
-        print!("{}", v);
+        print!("{}", i);
     }
     println!("Hello, world!1");
 }
