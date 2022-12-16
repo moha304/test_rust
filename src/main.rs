@@ -14,7 +14,7 @@ fn main() {
     for i in v{
         print!("{}", i);
     }
-    println!("Hello, world!1");
+    println!("Hedasllo, world!1");
 }
 
 
